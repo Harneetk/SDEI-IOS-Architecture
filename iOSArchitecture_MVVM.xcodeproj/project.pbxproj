@@ -104,6 +104,7 @@
 		70F90C3B223BB08800DD686F /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
 		9571CFD9A096E2607E416E53 /* Pods-iOSArchitecture_MVVMTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOSArchitecture_MVVMTests.release.xcconfig"; path = "Target Support Files/Pods-iOSArchitecture_MVVMTests/Pods-iOSArchitecture_MVVMTests.release.xcconfig"; sourceTree = "<group>"; };
 		9E1D6A862372A962007DE6A7 /* .swiftlint.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = .swiftlint.yml; sourceTree = "<group>"; };
+		9E856D922383E2BD006181B4 /* DarkModeREADME.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = DarkModeREADME.md; sourceTree = "<group>"; };
 		C363BA57B0BC85052E594ACA /* Pods_iOSArchitecture_MVVM.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iOSArchitecture_MVVM.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5747D1C00FDF45EEB6E94E7 /* Pods-iOSArchitecture_MVVM.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOSArchitecture_MVVM.release.xcconfig"; path = "Target Support Files/Pods-iOSArchitecture_MVVM/Pods-iOSArchitecture_MVVM.release.xcconfig"; sourceTree = "<group>"; };
 		CA0C296F3FCDD3AE0E29568D /* Pods-iOSArchitecture_MVVMUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOSArchitecture_MVVMUITests.release.xcconfig"; path = "Target Support Files/Pods-iOSArchitecture_MVVMUITests/Pods-iOSArchitecture_MVVMUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -168,6 +169,7 @@
 		7075C463223A4ED00029CE31 = {
 			isa = PBXGroup;
 			children = (
+				9E856D922383E2BD006181B4 /* DarkModeREADME.md */,
 				7075C46E223A4ED00029CE31 /* iOSArchitecture_MVVM */,
 				7075C486223A4ED30029CE31 /* iOSArchitecture_MVVMTests */,
 				7075C491223A4ED30029CE31 /* iOSArchitecture_MVVMUITests */,

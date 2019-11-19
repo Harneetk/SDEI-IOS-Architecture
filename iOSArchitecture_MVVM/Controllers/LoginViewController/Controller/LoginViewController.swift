@@ -47,6 +47,7 @@ class LoginViewController: BaseViewController {
         super.viewDidLoad()
         isLoginEnabled = false
         setupClosures()
+        self.setUpColors()
     }
     
     // MARK: Setup
@@ -56,6 +57,11 @@ class LoginViewController: BaseViewController {
                 self?.navigateToHomeScreen()
             }
         }
+    }
+    
+    /// This method would change the color according to your mode. if you have light mode then the background color will be white or vice-versa.
+    func setUpColors() {
+        self.view.backgroundColor = ColorCompatibility.myOlderiOSCompatibleColorName
     }
     
     func navigateToHomeScreen() {
